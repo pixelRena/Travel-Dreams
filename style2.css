@@ -78,6 +78,8 @@ p {
 }
 
 .btn-light {
+	position: relative;
+	bottom: 20px;
 	font-family: "Lato", sans-serif;
 	border: 1px solid black;
 	border-radius: 0;
