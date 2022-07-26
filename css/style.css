@@ -23,6 +23,8 @@ video {
 }
 
 hr {
+	position: relative;
+	left: 42%;
 	border-color: #00fbff;
 	border-width: 3px;
 	max-width: 15%;
